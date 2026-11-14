@@ -43,6 +43,21 @@ Three self-contained projects showing range:
 
 ---
 
+### 📚 Smart Study Planner — C++ with a built-in web server
+> C++17 · Winsock TCP · JSON API · Arabic RTL UI
+
+A study-task manager that serves its **own web interface** — no framework, no runtime other than C++:
+
+- **HTTP server** written directly on Winsock sockets, one thread per client
+- **JSON API** (`GET`/`POST /api/tasks`) consumed by an embedded web UI
+- Hand-written **linked list**, `std::priority_queue` ordering and a `std::deque` daily plan
+- **Urgency scoring** that blends deadline pressure with priority
+- Full Arabic RTL interface with Bootstrap
+
+**Highlights:** zero third-party dependencies · request framing by `Content-Length` · custom routing
+
+---
+
 ### 🧩 Portfolio — C#
 > C# · .NET · Modern language features
 
@@ -119,6 +134,7 @@ All portfolio projects build and test automatically on every push.
 | [Portfolio-Cpp](https://github.com/bodysale5678az-svg/Portfolio-Cpp) | ![C++ CI](https://github.com/bodysale5678az-svg/Portfolio-Cpp/actions/workflows/ci.yml/badge.svg) |
 | [Portfolio-CSharp](https://github.com/bodysale5678az-svg/Portfolio-CSharp) | ![.NET CI](https://github.com/bodysale5678az-svg/Portfolio-CSharp/actions/workflows/ci.yml/badge.svg) |
 | [SuperMarketPro](https://github.com/bodysale5678az-svg/SuperMarketPro) | ![C++ CI](https://github.com/bodysale5678az-svg/SuperMarketPro/actions/workflows/ci.yml/badge.svg) |
+| [SmartStudyPlanner](https://github.com/bodysale5678az-svg/SmartStudyPlanner) | ![C++ CI](https://github.com/bodysale5678az-svg/SmartStudyPlanner/actions/workflows/ci.yml/badge.svg) |
 | [SalesManagementSystem](https://github.com/bodysale5678az-svg/SalesManagementSystem) | ![.NET CI](https://github.com/bodysale5678az-svg/SalesManagementSystem/actions/workflows/ci.yml/badge.svg) |
 
 ---
