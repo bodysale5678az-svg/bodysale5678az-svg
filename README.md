@@ -95,6 +95,16 @@ A clean CRUD web application for product management — my first step into ASP.N
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bodysale5678az-svg&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
+### ✅ Continuous Integration
+
+All portfolio projects build and test automatically on every push.
+
+| Repository | CI |
+|---|---|
+| [Portfolio-Cpp](https://github.com/bodysale5678az-svg/Portfolio-Cpp) | ![C++ CI](https://github.com/bodysale5678az-svg/Portfolio-Cpp/actions/workflows/ci.yml/badge.svg) |
+| [Portfolio-CSharp](https://github.com/bodysale5678az-svg/Portfolio-CSharp) | ![.NET CI](https://github.com/bodysale5678az-svg/Portfolio-CSharp/actions/workflows/ci.yml/badge.svg) |
+| [SuperMarketPro](https://github.com/bodysale5678az-svg/SuperMarketPro) | ![C++ CI](https://github.com/bodysale5678az-svg/SuperMarketPro/actions/workflows/ci.yml/badge.svg) |
+
 ---
 
 ## 🌱 Currently Learning
