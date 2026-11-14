@@ -55,6 +55,21 @@ Four console projects:
 
 ---
 
+### 💼 Sales Management System — C# OOP & Design Patterns
+> C# · .NET · SOLID · Repository & Strategy patterns
+
+A business domain model built around clean object-oriented design:
+
+- **Abstract `Employee`** with `Manager`, `Hr`, `Developer`, `SalesEmployee` subclasses
+- **Capability interfaces** — `IApprovable`, `IReportable`, `INotifiable`
+- **Repository pattern** — swap in-memory ⇄ array storage without touching the services
+- **Strategy pattern** — pluggable payment methods
+- **Order state machine** — Pending → Confirmed → Paid with guarded transitions
+
+**Highlights:** validated setters · immutable entity ids · dependency inversion · 0 warnings with `-warnaserror`
+
+---
+
 ### 🚗 Auto Parts Store — Desktop Management System
 > Python · Tkinter · OOP · JSON Persistence
 
@@ -104,6 +119,7 @@ All portfolio projects build and test automatically on every push.
 | [Portfolio-Cpp](https://github.com/bodysale5678az-svg/Portfolio-Cpp) | ![C++ CI](https://github.com/bodysale5678az-svg/Portfolio-Cpp/actions/workflows/ci.yml/badge.svg) |
 | [Portfolio-CSharp](https://github.com/bodysale5678az-svg/Portfolio-CSharp) | ![.NET CI](https://github.com/bodysale5678az-svg/Portfolio-CSharp/actions/workflows/ci.yml/badge.svg) |
 | [SuperMarketPro](https://github.com/bodysale5678az-svg/SuperMarketPro) | ![C++ CI](https://github.com/bodysale5678az-svg/SuperMarketPro/actions/workflows/ci.yml/badge.svg) |
+| [SalesManagementSystem](https://github.com/bodysale5678az-svg/SalesManagementSystem) | ![.NET CI](https://github.com/bodysale5678az-svg/SalesManagementSystem/actions/workflows/ci.yml/badge.svg) |
 
 ---
 
