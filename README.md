@@ -22,6 +22,39 @@ I build **full-stack web applications** with ASP.NET Core and **desktop systems*
 
 ## 📌 Featured Projects
 
+### 🛒 SuperMarket Pro — Point-of-Sale System
+> C++17 · CMake · OOP Architecture
+
+A complete supermarket management system with role-based access (Admin / Cashier / Buyer),
+inventory management, a shopping cart with all-or-nothing checkout, printed invoices and sales reports.
+
+**Highlights:** abstract `User` hierarchy · validated entity setters · immutable invoices · file persistence
+
+---
+
+### 🧮 Portfolio — C++17
+> C++17 · Recursive-descent parsing · Algorithms
+
+Three self-contained projects showing range:
+
+- **Calculator** — full expression parser with operator precedence, parentheses and an expression tree
+- **ProblemSolving** — 11 classic algorithms (Two Sum, Binary Search, DP, Stacks…) with **32 passing tests**
+- **TaskManager** — CRUD, priority sorting and file persistence
+
+---
+
+### 🧩 Portfolio — C#
+> C# · .NET · Modern language features
+
+Four console projects:
+
+- **Calculator** — parser + expression tree, pattern matching & `switch` expressions
+- **ProblemSolving** — 11 algorithms with **29 passing tests**
+- **NumberGuessing** — game with adaptive bounds and scoring
+- **PasswordGenerator** — **CSPRNG**, rejection sampling and Fisher–Yates shuffle
+
+---
+
 ### 🚗 Auto Parts Store — Desktop Management System
 > Python · Tkinter · OOP · JSON Persistence
 
