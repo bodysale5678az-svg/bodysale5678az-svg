@@ -64,6 +64,9 @@ Alongside development, I lead the **NEC (Novera E-Club)** community and teach **
 
 Clean Architecture with .NET · ASP.NET Core patterns · Data Structures & Algorithms
 
+![Contribution snake](https://raw.githubusercontent.com/bodysale5678az-svg/bodysale5678az-svg/output/github-snake.svg#gh-light-mode-only)
+![Contribution snake](https://raw.githubusercontent.com/bodysale5678az-svg/bodysale5678az-svg/output/github-snake-dark.svg#gh-dark-mode-only)
+
 ---
 
 <p align="center"><strong>Always building. Always learning.</strong><br />
