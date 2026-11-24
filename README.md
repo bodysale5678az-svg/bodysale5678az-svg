@@ -27,13 +27,13 @@ Alongside development, I lead the **NEC (Novera E-Club)** community and teach **
 <h3>01 / Clinic Management</h3>
 <p><strong>ASP.NET Core MVC · EF Core · SQL Server</strong></p>
 <p>An Arabic RTL clinic app with role-based access, working-hours validation and appointment conflict prevention.</p>
-<p><a href="https://github.com/bodysale5678az-svg/hospital">Explore hospital →</a></p>
+<p><a href="https://github.com/bodysale5678az-svg/hospital">View code →</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>02 / Sales Management</h3>
 <p><strong>C# · .NET · OOP</strong></p>
 <p>A business domain model exploring Repository and Strategy patterns, payroll rules and an order state machine.</p>
-<p><a href="https://github.com/bodysale5678az-svg/SalesManagementSystem">Explore SalesManagementSystem →</a></p>
+<p><a href="https://github.com/bodysale5678az-svg/SalesManagementSystem">View code →</a></p>
 </td>
 </tr>
 <tr>
@@ -41,13 +41,13 @@ Alongside development, I lead the **NEC (Novera E-Club)** community and teach **
 <h3>03 / Smart Study Planner</h3>
 <p><strong>C++17 · Winsock · JSON API</strong></p>
 <p>A study-task planner with a built-in HTTP server and an Arabic RTL web interface.</p>
-<p><a href="https://github.com/bodysale5678az-svg/SmartStudyPlanner">Explore SmartStudyPlanner →</a></p>
+<p><a href="https://github.com/bodysale5678az-svg/SmartStudyPlanner">View code →</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>04 / SuperMarket Pro</h3>
 <p><strong>C++17 · CMake · OOP</strong></p>
 <p>A learning project for inventory, role-based access and a point-of-sale flow with file persistence.</p>
-<p><a href="https://github.com/bodysale5678az-svg/SuperMarketPro">Explore SuperMarketPro →</a></p>
+<p><a href="https://github.com/bodysale5678az-svg/SuperMarketPro">View code →</a></p>
 </td>
 </tr>
 </table>
