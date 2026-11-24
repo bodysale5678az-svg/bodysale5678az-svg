@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mahmoud Saleh, Backend Developer, .NET / C#">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1729"/><stop offset="1" stop-color="#172944"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#344a64" stroke-opacity=".25"/></pattern></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<rect x="54" y="57" width="46" height="5" rx="2" fill="#63ddd0"/>
+<text x="54" y="119" font-family="Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.4" fill="#f5f8ff">Mahmoud Saleh</text>
+<text x="56" y="163" font-family="Arial, sans-serif" font-size="24" fill="#a9bdcf">Backend Developer</text>
+<rect x="56" y="198" width="134" height="38" rx="8" fill="#203c50" stroke="#3d6677"/>
+<text x="123" y="223" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#88eee0">.NET / C#</text>
+<g fill="none" stroke="#63ddd0" stroke-width="3" opacity=".8"><rect x="865" y="66" width="230" height="160" rx="12" stroke="#425e78"/><path d="M865 104H1095" stroke="#425e78"/><path d="M922 145l-18 16 18 16M1039 145l18 16-18 16M995 135l-19 54"/><circle cx="886" cy="85" r="3" fill="#63ddd0" stroke="none"/><circle cx="901" cy="85" r="3" fill="#64859a" stroke="none"/><circle cx="916" cy="85" r="3" fill="#64859a" stroke="none"/></g>
+</svg>
